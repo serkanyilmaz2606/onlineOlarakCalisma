@@ -1,3 +1,4 @@
 Enter file contents here
 deneme 1
 editle bir satır daha  ekledim
+2 kes ekleme yapıyprum burda yorum satırı verecekmi
